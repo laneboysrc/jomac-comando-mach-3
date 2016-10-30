@@ -7,9 +7,12 @@ Reverse-engineered schematics of a JoMac Comando Mach 3 RC car Am 27 MHz 2-chann
 ## Videos and photos
 
 Overview of the transmitter:
-[![Overview](http://img.youtube.com/vi/xxxxxxxx/0.jpg)](http://www.youtube.com/watch?v=xxxxxxxx)
+
+[![Overview](http://img.youtube.com/vi/EtCLqEYQrAM/0.jpg)](http://www.youtube.com/watch?v=EtCLqEYQrAM)
 
 Explaining the schematics:
-[![Theroy of operation](http://img.youtube.com/vi/xxxxxxxx/0.jpg)](http://www.youtube.com/watch?v=xxxxxxxx)
+
+[![Theroy of operation](http://img.youtube.com/vi/GLExclChYkc/0.jpg)](http://www.youtube.com/watch?v=GLExclChYkc)
+
 
 High-resolution images of the transmitter can be found in our [Flickr album](https://www.flickr.com/photos/78037110@N03/albums/72157672278569504)
